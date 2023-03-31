@@ -8,6 +8,7 @@ except KeyError:
 	
 if __name__ == "__main__":
 	os.system("git pull")
+	os.system("pkg install play-audio")
 	os.system("mkdir OK")
 	os.system("mkdir CP")
 	os.system("mkdir /sdcard/OK")
