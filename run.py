@@ -9,6 +9,7 @@ if __name__ == "__main__":
 	except:pass
 	try:os.system("mkdir /sdcard/CP")
 	except:pass
+	os.system('clear')
 	print(f'''\n
  {P}PCX-brute update version terbaru 
  {P}Version  : {H}16.0
