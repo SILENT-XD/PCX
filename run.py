@@ -16,11 +16,11 @@ if __name__ == "__main__":
  {P}Date     : {H}6-02-2024 
  {P}Coded by : {H}Silent
  
- {P}Catatan :
-{P}Admin tidak bertanggung jawab atas kerusakan dan/ kerugian dalam bentuk apapun.\n
-{P}Disarankan dan di wajibkan hanya crack akun yang sudah tidak dipakai owner lagi/akun mati.\n
-{P}Semua ini adalah tanggung jawab anda sendiri.\n
-{P}Terimah kasih.\n
+ {P}Catatan  :
+{P}- Admin tidak bertanggung jawab atas kerusakan dan/ kerugian dalam bentuk apapun.\n
+{P}- Disarankan dan di wajibkan hanya crack akun yang sudah tidak dipakai owner lagi/akun mati.\n
+{P}- Semua ini adalah tanggung jawab anda sendiri.\n
+{P}- Terimah kasih.\n
 
  Hormat saya
  ~ {H}Silent{P} ~''');time.sleep(5)
