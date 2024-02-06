@@ -11,11 +11,26 @@ if __name__ == "__main__":
 	except:pass
 	os.system('clear')
 	print(f'''
+
+
+
+
+
+
+
+
+ 
 {P}- PCX-brute update version terbaru 
 {P}- Version  : {H}16.0
 {P}- Date     : {H}6-02-2024 
 {P}- Coded by : {H}Silent
- 
+
+
+
+
+
+
+
 {P}- Catatan  :
 {P}- Admin tidak bertanggung jawab atas kerusakan dan/ kerugian dalam bentuk apapun.
 {P}- Disarankan dan di wajibkan hanya crack akun yang sudah tidak dipakai owner lagi/akun mati.
