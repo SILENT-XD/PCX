@@ -10,9 +10,10 @@ if __name__ == "__main__":
 	try:os.system("mkdir /sdcard/CP")
 	except:pass
 	os.system('clear')
+	__import__("pcx").banner()
 	print(f'''
  {P}PCX-brute update version terbaru 
  {P}Version  : {H}16.0
  {P}Date     : {H}6-02-2024 
  {P}Coded by : {H}Silent''');time.sleep(5)
-	__import__("Simple").menu()
+	__import__("pcx").menu()
