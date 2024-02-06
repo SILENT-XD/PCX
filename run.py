@@ -14,5 +14,14 @@ if __name__ == "__main__":
  {P}PCX-brute update version terbaru 
  {P}Version  : {H}16.0
  {P}Date     : {H}6-02-2024 
- {P}Coded by : {H}Silent''');time.sleep(5)
+ {P}Coded by : {H}Silent
+ 
+ <- Note ->
+ Admin tidak bertanggung jawab atas kerusakan dan/ kerugian dalam bentuk apapun.
+ Disarankan dan di wajibkan hanya crack akun yang sudah tidak dipakai owner lagi/akun mati
+ Semua ini adalah tanggung jawab anda sendiri.
+ Terimah kasih.
+
+ Hormat saya
+ ~ Silent ~''');time.sleep(5)
 	__import__("pcx").menu()
