@@ -16,9 +16,4 @@ if __name__ == "__main__":
  {P}Version  : {H}16.0
  {P}Date     : {H}6-02-2024 
  {P}Coded by : {H}Silent''');time.sleep(5)
-	__import__("pcx").menu()
-
-
-
-
-
+	__import__("Simple").menu()
