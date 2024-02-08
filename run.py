@@ -12,7 +12,7 @@ if __name__ == "__main__":
 	os.system('clear')
 	print(f'''\n\n\n\n\n\n\n\n\n\n
 {P}- PCX-brute update version terbaru 
-{P}- Version  : {H}17.0
+{P}- Version  : {H}18.0
 {P}- Date     : {H}6-02-2024 
 {P}- Coded by : {H}Silent\n
 {P}- Catatan  :
@@ -22,5 +22,5 @@ if __name__ == "__main__":
 {P}- Terimah kasih.
 
      Hormat saya
-     ~ {H}Silent{P} ~''');time.sleep(5)
+     ~ {H}Silent{P} ~''');time.sleep(2)
 	__import__("pcx").menu()
