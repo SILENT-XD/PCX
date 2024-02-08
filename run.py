@@ -22,5 +22,5 @@ if __name__ == "__main__":
 {P}- Terimah kasih.
 
      Hormat saya
-     ~ {H}Silent{P} ~''');time.sleep(2)
+     ~ {H}Silent{P} ~''');time.sleep(1)
 	__import__("pcx").menu()
