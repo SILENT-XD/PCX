@@ -9,5 +9,5 @@ if __name__ == "__main__":
 	except:pass
 	try:os.system("mkdir /sdcard/CP")
 	except:pass
-	print('Script di tutup sampai batas waktu yg belum ditentukan, salam dari hormat silent')
+	exit('Script di tutup sampai batas waktu yg belum ditentukan, salam hormat silent')
 	#__import__("pcx").menu()
